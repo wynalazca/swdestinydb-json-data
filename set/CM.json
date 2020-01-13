@@ -1783,7 +1783,7 @@
         "has_errata": false,
         "health": 11,
         "illustrator": "JB Casacop",
-        "is_unique": false,
+        "is_unique": true,
         "name": "Tarfful",
         "points": "11/14",
         "position": 74,
@@ -1871,7 +1871,7 @@
         "position": 78,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Heal 1 damage from a charcater. Then you may heal 2 damage from another character that shares a subtype with that character.",
+        "text": "Heal 1 damage from a character. Then you may heal 2 damage from another character that shares a subtype with that character.",
         "type_code": "event"
     },
     {
@@ -1889,7 +1889,7 @@
         "position": 79,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Spot any number of characters that each have 10 or more health to roll one charcater die on each of them into your pool.",
+        "text": "Spot any number of characters that each have 10 or more health to roll one character die on each of them into your pool.",
         "type_code": "event"
     },
     {
@@ -3054,7 +3054,7 @@
         "has_errata": false,
         "illustrator": "Lukasz Jaskolski",
         "is_unique": false,
-        "name": "Roque Tendencies",
+        "name": "Rogue Tendencies",
         "position": 135,
         "rarity_code": "C",
         "set_code": "CM",
@@ -3446,7 +3446,7 @@
         "position": 154,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "This support enters play with  resources on it.\nThis support can be activated.\nAfter you activate this support, you may remove 1 resource from it to gain 1 resource.",
+        "text": "This support enters play with 3 resources on it.\nThis support can be activated.\nAfter you activate this support, you may remove 1 resource from it to gain 1 resource.",
         "type_code": "support"
     },
     {
@@ -3455,7 +3455,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "gray",
-        "flavor": "one of these mobile fortresses was large enough to contain an entire Jawa clan.",
+        "flavor": "One of these mobile fortresses was large enough to contain an entire Jawa clan.",
         "has_die": true,
         "has_errata": false,
         "illustrator": "Alex Tooth",
